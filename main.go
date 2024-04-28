@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/golang-jwt/jwt/v5"
-	"github.com/iqbalmahad/belajar-go-jwt/jwt"
+	"github.com/iqbalmahad/belajar-go-jwt/internal/jwt"
 )
 
 func main() {
